@@ -1,0 +1,11 @@
+# compilado
+*.exe
+*.exe.config
+*.pdb
+
+# datos de cada PC (se crean al usarlo)
+juegos-extra.txt
+juegos-ocultos.txt
+juegos-recientes.txt
+cache/
+hud.log

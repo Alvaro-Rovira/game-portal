@@ -1,0 +1,11 @@
+# Juegos que no son de Steam ni de Epic (esos salen solos). Uno por linea:
+#   Nombre | Plataforma | que lanzar | portada (opcional) | icono: exe o png (opcional) | fondo (opcional)
+#
+# "que lanzar" puede ser un .exe, un acceso directo (.lnk) o un enlace (uplay://, battlenet://...).
+# Se pueden usar variables como %APPDATA% o %LOCALAPPDATA%.
+# Si el programa ya no existe, el juego no sale. Para ocultar uno: clic derecho en el portal > Ocultar.
+#
+# Ejemplos (quita la # para usarlos):
+# Roblox | Roblox | %APPDATA%\Microsoft\Windows\Start Menu\Programs\Roblox\Roblox Player.lnk
+# Minecraft | Minecraft | %APPDATA%\.minecraft\TLauncher.exe
+# Assassin's Creed IV Black Flag | Ubisoft | uplay://launch/273/0 | | C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Assassin's Creed IV Black Flag\AC4BFSP.exe
